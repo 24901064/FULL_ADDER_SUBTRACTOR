@@ -1,4 +1,6 @@
-# FULL_ADDER_SUBTRACTOR
+# EXP 4 : FULL ADDER AND SUBTRACTOR
+## NAME : BHARANI KUMAR S
+## REGISTRATION NUMBER : 24901064
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -38,33 +40,52 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+FULL ADDER :
+![FULL ADD TT](https://github.com/user-attachments/assets/ac8a0751-af07-4363-beff-13837394efa9)
+
+FULL SUBTRACTOR :
+![FULL SUB TT](https://github.com/user-attachments/assets/fccd8ff1-d0e0-4b71-8a0c-297137679a06)
+
+**Code**
+
+FULL ADDER :
+![full adder code](https://github.com/user-attachments/assets/43cd99d6-0de3-4af1-abab-634ee550efb2)
+
+
+FULL SUBTRACTOR:
+![full subtractor code](https://github.com/user-attachments/assets/b31d68c8-7073-4298-8b33-893da1480d85)
+
+
 **Procedure**
 
-Write the detailed procedure here
+1. Type the program in Quartus software.
+2. Compile and run the program.
+3. Generate the RTL schematic and save the logic diagram.
+4. Create nodes for inputs and outputs to generate the timing diagram.
+5. For different input combinations generate the timing diagram
 
 **Program:**
-![image](https://github.com/user-attachments/assets/e6a71133-06d7-4ec2-84e0-ba5ef7078850)
-![image](https://github.com/user-attachments/assets/ed1071c3-fb79-4f9a-ba7e-5c56e31d9991)
 
-
-
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:24006587
 */
 
 **RTL Schematic**
-![image](https://github.com/user-attachments/assets/bd2790e6-5e12-4737-bb49-ac6a40d53076)
-![image](https://github.com/user-attachments/assets/bc881fb0-ea7c-4310-bf3a-e011d3924362)
 
+FULL ADDER :
+![full adder logic](https://github.com/user-attachments/assets/0f9ce3ba-ead0-49d1-a521-ebabda84d43b)
 
+FULL SUBTRACTOR :
+![full subtractor logic dia](https://github.com/user-attachments/assets/be99c723-96fa-43a5-aca5-d1dff3732e99)
 
 **Output Timing Waveform**
-![image](https://github.com/user-attachments/assets/2c54e7f6-5f2e-4e62-bd73-95626b965bee)
-![image](https://github.com/user-attachments/assets/522a7995-db0d-4e9a-b223-5411d96053ef)
 
+FULL ADDER :
+![full adder waveform](https://github.com/user-attachments/assets/7ef2a250-c518-46a2-b635-9126a2700c1e)
 
+FULL SUBTRACTOR:
+![Full subtractor waveform](https://github.com/user-attachments/assets/363022a9-06bb-4882-be92-f17c6b13d27e)
 
 **Result:**
-Hence proved
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
